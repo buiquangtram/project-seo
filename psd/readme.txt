@@ -1,0 +1,1 @@
+use 7zip (open source) to unzip the psd http://www.7-zip.org/
